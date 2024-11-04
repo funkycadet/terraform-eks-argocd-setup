@@ -1,0 +1,7 @@
+apiVersion: rds.aws.com/v1alpha1
+kind: DBInstance
+metadata:
+  name: my-db-instance
+spec:
+  # RDS instance specifications
+
